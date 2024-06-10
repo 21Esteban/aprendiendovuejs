@@ -20,7 +20,7 @@ En padre.vue, define las props que el componente puede recibir: -->
 
 <template>
   <div>
-    <h1>este es el archivo app.vue</h1>
+    <h1>este es el archivo app.vue</h1> 
     <padre :saludo="'Saludos desde un componente usando props' "/>
   </div>
 </template>
